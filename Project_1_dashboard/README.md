@@ -32,7 +32,7 @@ The dataset used for this project is **AI-Generated** to be a ready dataset to b
 - **Categories**
 - **Pricings + Quantities**
 
-The initial messy file : [Messy File](initial_messy_data.xlsx)
+The initial messy file : [Messy File](/initial_messy_data.xlsx)
 
 # Dashboard build
 
