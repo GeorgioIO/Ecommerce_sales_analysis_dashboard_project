@@ -60,7 +60,7 @@ For this project i picked two important **KPIs** to show :
 ### 📊 Top 5 Customers By Sales - Bar Chart
 
 ![Customers By Sales Chart](/images/customers_by_sales_dash.png)
-![Customers By Sales Source](/images/customers_by_sales_dash_source.png)
+![Customers By Sales Source](/images/customers_by_sales_dash_source_last.png)
 
 - **Excel Features:** Utilized bar chart with a **PivotTable** as data source.
 - **Design Choice:** Horizental bar chart for visual comparison of Total Sales by customers
@@ -69,18 +69,18 @@ For this project i picked two important **KPIs** to show :
 
 ### 📊 Top 10 Books By Sales - Bar Chart
 
-![Sales By Titles Chart](/images/sales_by_title_dash.png)
+![Sales By Titles Chart](/images\sales_by_title_dash.png)
 ![Sales By Titles Source](/images/sales_by_title_dash_source.png)
 
 - **Excel Features:** Utilized bar chart with a **PivotTable** as data source.
 - **Design Choice:** Horizental bar chart for visual comparison of Total Sales by Titles
 - **Data Organization:** Sorted titles by ascending total sales for improved readability.
-- **Insights Gained:** This enables quick identification of what are the most profitable Books , with **Large Minute Appear** being the highest book by **$834** , **Part Attorney** come second with **$771**.
+- **Insights Gained:** This enables quick identification of what are the most profitable Books , with **Table huge** being the highest book by **$1066** , **Police include dream** come second with **$939**.
 
 ### 📊 Sales By Country - Map Chart
 
-![Sales By Country Chart](/images/sales_by_country_dash.png)
-![Sales By Country Source](/images/sales_by_country_dash_source.png)
+![Sales By Country Chart](/images/sales_by_country_dash_last.png)
+![Sales By Country Source](/images/sales_by_country_dash_source_last.png)
 
 - **Excel Features:** Utilized map chart feature to plot total sales globally.
 - **Design Choice:** Color-coded map to visually differentiate sales levels across regions.
