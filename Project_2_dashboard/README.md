@@ -8,7 +8,7 @@ This Sales Dashboard was created to help the owner of the bookstore to get insig
 
 ## Dashboard File
 
-My Final dashboard file is in [Project_dashboard_analysis.xlsx](/Project_1_dashboard/Project_dashboard_analysis.xlsx).
+My Final dashboard file is in [Project_dashboard_analysis.xlsx](/Project_2_dashboard/Project_dashboard_analysis.xlsx).
 
 ## Excel Skills Used
 

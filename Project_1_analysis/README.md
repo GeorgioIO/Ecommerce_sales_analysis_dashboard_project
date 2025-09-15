@@ -1,6 +1,6 @@
 # Store Sales Analysis (Formulas + Functions)
 
-![Project 2 Photo](/images/project_2_photo.png)
+![Project 1 Photo](/images/project_1_photo.png)
 
 # Introduction
 
@@ -8,7 +8,7 @@ This Part of the project showcase my abilities in answering different analytical
 
 ## Analysis File
 
-My Final analysis file is in [Project_2_analysis](/Project_2_analysis/Project_analysis_formulas.xlsx)
+My Final analysis file is in [Project_1_analysis](/Project_1_analysis/Project_analysis_formulas.xlsx)
 
 ## Questions to Analyze
 
