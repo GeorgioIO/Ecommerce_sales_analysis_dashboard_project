@@ -87,6 +87,15 @@ For this project i picked two important **KPIs** to show :
 - **Data Organization:** Plotted total sales for each available country.
 - **Insights Gained:** Enable quick grasps of global sales distribution and highlights high/low countries.
 
+### 📊 Sales Trends Over the year - Line Chart
+
+![Sales By Country Chart](/images\sales_trend_yearly_dash.png)
+![Sales By Country Source](/images\sales_trend_yearly_dash_source.png)
+
+- **Excel Features:** Utilized line chart to visualize how the sales trends over the year.
+- **Design Choice:** Line chart to visualize the sales trends.
+- **Insights Gained:** Enable quick identification of the high/low months.
+
 ## Slicers
 
 ![Slicers 1](/images/slicers_one.png)
