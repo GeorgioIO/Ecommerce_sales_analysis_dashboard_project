@@ -10,3 +10,7 @@ A Sales Dashboard that helps store owners track performance and make informed de
 [Checkout my work here](/Project_1_dashboard)
 
 <img width="1892" height="855" alt="dashboard" src="https://github.com/user-attachments/assets/76ccd125-a462-445f-8f96-d6f0ee0e9d42" />
+
+## Store Sales Analysis (Formulas + Functions)
+An deep analysis of the store data with the **main goal** is to reply to various analytical questions
+[Checkout my work here](/Project_2_analysis)
