@@ -69,7 +69,7 @@ For this project i picked two important **KPIs** to show :
 
 ### 📊 Top 10 Books By Sales - Bar Chart
 
-![Sales By Titles Chart](/images\sales_by_title_dash.png)
+![Sales By Titles Chart](/images/sales_by_title_dash.png)
 ![Sales By Titles Source](/images/sales_by_title_dash_source.png)
 
 - **Excel Features:** Utilized bar chart with a **PivotTable** as data source.
@@ -89,8 +89,8 @@ For this project i picked two important **KPIs** to show :
 
 ### 📊 Sales Trends Over the year - Line Chart
 
-![Sales By Country Chart](/images\sales_trend_yearly_dash.png)
-![Sales By Country Source](/images\sales_trend_yearly_dash_source.png)
+![Sales By Country Chart](/images/sales_trend_yearly_dash.png)
+![Sales By Country Source](/images/sales_trend_yearly_dash_source.png)
 
 - **Excel Features:** Utilized line chart to visualize how the sales trends over the year.
 - **Design Choice:** Line chart to visualize the sales trends.
