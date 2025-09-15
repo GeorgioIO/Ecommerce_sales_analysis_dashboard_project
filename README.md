@@ -10,6 +10,18 @@ I divided the project into three parts:
 2. Deep analysis using different **Excel Functions and Formulas**
 3. Creating a dashboard using **PowerTables** , **PivotCharts** ...
 
+# Skills Demonstrated
+
+- 🧼 **Power Query**
+- 🧮 **Formulas and Functions**
+- ❎ **Data Validation**
+- 🔍 **LOOKUPS Functions**
+- 🎛️ **Conditional Formatting**
+- 📐 **Designing and Building Dashboards**
+- 📉 **PivotCharts**
+- 📑 **PivotTables**
+- ✂️ **Slicers + Customs**
+
 ## Dataset cleaning (Power Query)
 
 In this section i explored the data using **Power Query** and took some cleaning decisions
