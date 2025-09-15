@@ -20,7 +20,7 @@ In this section i explored the data using **Power Query** and took some cleaning
 ## Store Sales Analysis (Formulas + Functions)
 
 An deep analysis of the store data with the **main goal** is to reply to various analytical questions
-[Checkout my work here](/Project_2_analysis)
+[Checkout my work here](/Project_1_analysis)
 
 ![Project 1 Photo](/images/project_1_photo.png)
 
