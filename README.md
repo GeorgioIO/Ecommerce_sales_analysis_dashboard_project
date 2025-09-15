@@ -1,6 +1,11 @@
 # Ecommerce Bookstore Sales Analysis + Dashboard Project 📊
 
+# General Introduction
+
+In this project i considered myself a data analysed acquired to analyze a bookstore data with a goal to help the owner take better decisions for his store.
+
 ## Bookstore Sales Dashboard
+
 A Sales Dashboard that helps store owners track performance and make informed decisions quickly.
 [Checkout my work here](Project)
 
