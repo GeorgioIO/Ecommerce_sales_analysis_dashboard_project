@@ -15,11 +15,9 @@ My Final dashboard file is in [Project_dashboard_analysis.xlsx](/Project_1_dashb
 In this specific project i empowered and enhanced my following Excel skills :
 
 - 📐 **Designing and Building Dashboards**
-- 💪 **Power Query**
 - 📉 **PivotCharts**
 - 📑 **PivotTables**
 - ✂️ **Slicers + Customs**
-- 🧮 **Formulas and Functions**
 
 ## Bookstore Sales Dataset
 
