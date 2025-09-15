@@ -22,11 +22,11 @@ In this section i explored the data using **Power Query** and took some cleaning
 An deep analysis of the store data with the **main goal** is to reply to various analytical questions
 [Checkout my work here](/Project_2_analysis)
 
-![Project 1 Photo](/images/project_2_photo.png)
+![Project 1 Photo](/images/project_1_photo.png)
 
 ## Bookstore Sales Dashboard
 
 A Sales Dashboard that helps store owners track performance and make informed decisions quickly.
-[Checkout my work here](/Project_1_dashboard)
+[Checkout my work here](/Project_2_dashboard)
 
 <img width="1892" height="855" alt="dashboard" src="https://github.com/user-attachments/assets/76ccd125-a462-445f-8f96-d6f0ee0e9d42" />
