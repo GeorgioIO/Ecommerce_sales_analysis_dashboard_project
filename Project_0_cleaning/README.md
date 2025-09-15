@@ -1,6 +1,6 @@
 # Dataset cleaning (Power Query
 
-![Project 2 Photo](/images/project_2_photo.png)
+![Project 0 Photo](/images/project_0_photo_last.png)
 
 # Introduction
 
